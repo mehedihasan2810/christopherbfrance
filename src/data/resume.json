@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Christopher Blow France",
+    "label": "User experience research, software development, digital product design",
+    "email": "christopherbfrance@gmail.com",
+    "phone": "(415) 309-7900",
+    "portfolio": "www.christopherbfrance.com/work",
+    "website": "www.christopherbfrance.com",
+    "summary": "User experience research, design, and development.",
+    "location": {
+      "postalCode": "94611",
+      "city": "Oakland",
+      "countryCode": "USA",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "christopherfrance",
+        "url": "https://github.com/christopherfrance"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cypress",
+      "position": "Product Design (Design Systems)",
+      "website": "http://cypress.io",
+      "startDate": "May 2022",
+      "endDate": "Present",
+      "summary": "I'm a product designer for a test automation platform."
+    },
+    {
+      "company": "WeaveGrid",
+      "position": "User Experience Lead and Software Engineer",
+      "website": "http://weavegrid.com",
+      "startDate": "July 2020",
+      "endDate": "April 2022",
+      "summary": "I led frontend development and product design at a startup aimed at promoting electric vehicle adoption."
+    },
+    {
+      "company": "The Data Guild",
+      "position": "Lead Member (Software and Design)",
+      "website": "http://thedataguild.com",
+      "startDate": "July 2018",
+      "endDate": "July 2020",
+      "summary": "I led UI for a venture studio using applied machine learning in health and energy."
+    },
+    {
+      "company": "Healthmade",
+      "position": "Creative Data Technologist",
+      "website": "https://www.healthmadedesign.com/",
+      "startDate": "September 2019",
+      "endDate": "March 2020",
+      "summary": "I designed wearables for predictive analytics in personal health."
+    },
+    {
+      "company": "Contain",
+      "position": "Platform Developer and Designer",
+      "website": "https://www.contain.ag/",
+      "startDate": "July 2019",
+      "endDate": "March 2020",
+      "summary": "I designed and built a fintech platform matching lenders and borrowers."
+    },
+    {
+      "company": "Litterati",
+      "position": "Data Product Strategist",
+      "website": "https://www.litterati.org",
+      "startDate": "May 2019",
+      "endDate": "April 2020",
+      "summary": "I designed and built a data visualization pipeline for computer vision."
+    },
+    {
+      "company": "Meedan",
+      "position": "Researcher, Developer, Designer, Founder",
+      "website": "http://meedan.com",
+      "startDate": "March 2008",
+      "endDate": "July 2018",
+      "summary": "I co-founded a startup for machine translation."
+    },
+    {
+      "company": "Bolt | Peters",
+      "position": "Researcher, Developer & Designer",
+      "website": "https://www.crunchbase.com/organization/bolt-peters#section-overview",
+      "startDate": "July 2007",
+      "endDate": "September 2008",
+      "summary": "I built an app for UX researchers."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "area": "Mass Communications",
+      "studyType": "Bachelor of Arts",
+      "startDate": "June 2001",
+      "endDate": "January 2004"
+    }
+  ]
+}
